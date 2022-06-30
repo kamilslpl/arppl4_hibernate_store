@@ -30,6 +30,4 @@ public class Product {
     private ProductUnit unit;
 
 
-
-
 }
